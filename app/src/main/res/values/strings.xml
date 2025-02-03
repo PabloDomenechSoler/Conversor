@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My U2P4Conversor</string>
+    <string name="textViewInfo">Conversor de pulgadas a centímetros</string>
+    <string name="textViewInfo2">Conversor de centímetros a pulgadas</string>
+    <string name="textViewInfo3">Conversor de kilogramos a libras</string>
+    <string name="textViewInfo4">Conversor de libras a kilos</string>
+    <string name="textViewInfo5">Conversor de pies a metros</string>
+    <string name="textViewInfo6">Conversor de metros a pies</string>
+    <string name="textViewHintPedir">Introduce las pulgadas</string>
+    <string name="buttonConvertir">Convertir</string>
+    <string name="buttonCambio">Cambiar Conversion Pulgadas y Centimetros</string>
+    <string name="buttonCambio2">Cambiar Conversion Kilogramos y Libras</string>
+    <string name="buttonCambio3">Cambiar Conversion Pies y Metros</string>
+    <string name="editTextHintResultado">Resultado</string>
+</resources>
